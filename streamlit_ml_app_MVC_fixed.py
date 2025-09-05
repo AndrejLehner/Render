@@ -429,7 +429,7 @@ def main():
             st.markdown(f"- Output: 1 Neuron")
 
     # ============================================================================
-    # TAB 2: TRAINING INTERFACE (UNVERÄNDERT)
+    # TAB 2: TRAINING INTERFACE
     # ============================================================================
     with tab2:
         st.header("🚀 Training Interface")
@@ -479,7 +479,7 @@ def main():
                 st.info("🎯 Klicke 'Start Training' um Logs zu sehen...")
 
     # ============================================================================
-    # TAB 3: RESULTS (UNVERÄNDERT)
+    # TAB 3: RESULTS
     # ============================================================================
     with tab3:
         st.header("📊 Training Results Dashboard")
