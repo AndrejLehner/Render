@@ -1,14 +1,11 @@
 # Core Streamlit
-streamlit==1.28.0
+streamlit
 
-# ML Libraries (Render Free Tier optimiert)
-tensorflow-cpu==2.11.0
-scikit-learn==1.2.2
-numpy==1.23.5
-pandas==1.5.3
+# ML Libraries (Streamlit Cloud optimiert)
+tensorflow>=2.15.0
+scikit-learn
+numpy
+pandas
 
 # Plotting
-plotly==5.13.0
-
-# Fix dependencies
-protobuf==3.19.6
+plotly
